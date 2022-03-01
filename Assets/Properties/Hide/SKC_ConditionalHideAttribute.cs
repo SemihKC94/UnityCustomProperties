@@ -2,8 +2,8 @@
 using System;
 using System.Collections;
 
-//Original version of the ConditionalHideAttribute created by Brecht Lecluyse (www.brechtos.com)
-//Modified by: -
+//Original version of the ConditionalHideAttribute created by Brecht
+//Modified by: SKC
 
 [AttributeUsage(AttributeTargets.Field | AttributeTargets.Property |
     AttributeTargets.Class | AttributeTargets.Struct, Inherited = true)]
