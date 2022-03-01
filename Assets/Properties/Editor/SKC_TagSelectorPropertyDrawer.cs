@@ -2,8 +2,8 @@ using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
 
-//Original by DYLAN ENGELMAN http://jupiterlighthousestudio.com/custom-inspectors-unity/
-//Altered by Brecht Lecluyse http://www.brechtos.com
+//Original by DYLAN
+//Modified by SKC
 
 [CustomPropertyDrawer(typeof(SKC_TagSelectorAttribute))]
 public class SKC_TagSelectorPropertyDrawer : PropertyDrawer
