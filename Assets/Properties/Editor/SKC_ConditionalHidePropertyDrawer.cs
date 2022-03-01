@@ -2,8 +2,8 @@
 using UnityEditor;
 using System.Collections.Generic;
 
-//Original version of the ConditionalHideAttribute created by Brecht Lecluyse (www.brechtos.com)
-//Modified by: -
+//Original version of the ConditionalHideAttribute created by Brecht
+//Modified by: SKC
 
 [CustomPropertyDrawer(typeof(SKC_ConditionalHideAttribute))]
 public class SKC_ConditionalHidePropertyDrawer : PropertyDrawer
